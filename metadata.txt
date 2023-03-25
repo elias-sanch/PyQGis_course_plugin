@@ -1,0 +1,7 @@
+[general]
+name=Minimal
+description=Minimal plugin
+version=1.0
+qgisMinimumVersion=3.0
+author=Elias Sanchez
+email=elias.sanchez.chara@gmail.com
